@@ -1,6 +1,6 @@
 # Unity3D Projects
 
-This repository contains several UnityD projects 
+## This repository contains several Unity3D projects 
 
 [Solar System Simulation](https://wangweiheng97.github.io/Unity/Solar%20System%20Simulation/Builds/WebGL/).
 It's an user-interactive 3D animation of solar system. 
