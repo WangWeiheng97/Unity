@@ -1,4 +1,4 @@
-WebGL
+OSXStandalone
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.PlayAgain
 f62d1e12c4ea2e5d19ca5a2c81b0bf32 Assembly-CSharp-firstpass.dll:UnityStandardAssets.ImageEffects.TiltShift
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
